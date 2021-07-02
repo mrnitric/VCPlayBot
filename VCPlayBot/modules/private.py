@@ -22,7 +22,7 @@ def _start(client, message):
                         "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+                        "🛠 Owner 🛠", url=f"https://t.me/Sanki_Launda")
                 ]
             ]
         ),
